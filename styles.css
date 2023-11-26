@@ -24,14 +24,20 @@ body{
      width: 30%;
 	text-align:center;
 	padding:10px;
+	display: grid;
+    justify-content: space-evenly;
 	
 }
 .pictorial-news-section{
 	background:white;
 	border-radius:10px;
 	text-align:center;
+	grid
 }
-
+img{
+	width:80%;
+	height:80%;
+}
 
 
 
