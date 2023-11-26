@@ -21,11 +21,16 @@ body{
 .pictorial-news-section{
 	background:white;
 	border-radius:10px;
-	margin-right:70%;
+     width: 30%;
 	text-align:center;
-	justify-content:bet
+	padding:10px;
+	
 }
-
+.pictorial-news-section{
+	background:white;
+	border-radius:10px;
+	text-align:center;
+}
 
 
 
